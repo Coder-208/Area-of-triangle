@@ -1,0 +1,4 @@
+print("Area of triangle")
+A=10 #any number can be given the variable  
+B=20 #any number can be given the variable 
+print(0.5*A*B)
